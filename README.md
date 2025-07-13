@@ -1,4 +1,9 @@
-# React + Vite
+# Weather App
+
+I made this weather app in which you can get weather of any city just by its name 
+learned about UPI handling in React
+
+## React + Vite
 
 This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
 
